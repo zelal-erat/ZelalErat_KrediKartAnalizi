@@ -52,7 +52,7 @@ Python (Google Colab) ve Power BI kullanılarak görselleştirmeler yapılmışt
 ## ⚙️ 4. Projenin Çalıştırılması
 
 - Python Analizi:  
-  [Google Colab Linkim]([https://colab.research.google.com/drive/senin_linkin](https://colab.research.google.com/drive/1F1VciPLmJSOsDajYe6OPrggx_KEh1Msl?usp=sharing))  
+  [Google Colab Linkim](https://colab.research.google.com/drive/1F1VciPLmJSOsDajYe6OPrggx_KEh1Msl?usp=sharing)
 
 - Power BI:  
   `credit_analysis.pbix` dosyasını indirip Power BI Desktop ile açabilirsin.
