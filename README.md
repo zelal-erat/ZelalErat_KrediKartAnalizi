@@ -55,7 +55,7 @@ Python (Google Colab) ve Power BI kullanılarak görselleştirmeler yapılmışt
   [Google Colab Linkim](https://colab.research.google.com/drive/1F1VciPLmJSOsDajYe6OPrggx_KEh1Msl?usp=sharing)
 
 - Power BI:  
-  `credit_analysis.pbix` dosyasını indirip Power BI Desktop ile açabilirsin.
+  `ZelalErat_credit_analysis.pbix` dosyasını indirip Power BI Desktop ile açabilirsin.
 
 ---
 
