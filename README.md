@@ -30,7 +30,9 @@ Python (Google Colab) ve Power BI kullanılarak görselleştirmeler yapılmışt
 
 - Cinsiyete göre harcama:
   ![Gender Expense](./colab_chart3.png)
-
+  
+- Gelir grubuna  göre harcama:
+  (./colab_chart4.png)
 ---
 
 ## 📈 3. Power BI Dashboard
