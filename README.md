@@ -1,0 +1,1 @@
+# ZelalErat_KrediKartAnalizi
